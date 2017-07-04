@@ -20,7 +20,7 @@ public class openWindow extends javax.swing.JFrame {
 
     /** Creates new form openWindow */
     public openWindow() {
-        
+        int abc;
         main(null);
         initComponents();
     }
