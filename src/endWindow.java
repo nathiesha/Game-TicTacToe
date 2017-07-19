@@ -15,6 +15,7 @@ public class endWindow extends javax.swing.JFrame {
      */
     public endWindow() {
         initComponents();
+int a=0;
           jLabel5.setText("User Has Wins :");
 ;          jLabel3.setText("Computer Has Wins :");
             Integer val=new Integer(ticTak12.db.result("user"));

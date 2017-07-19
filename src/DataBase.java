@@ -20,6 +20,7 @@ import java.util.logging.Logger;
 public class DataBase 
 {
     private static DataBase instance = null;
+    private static DataBase instance = null;
     int next=1;
         String DATABASE_URL;
       Connection connection ;
